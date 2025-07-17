@@ -1,0 +1,25 @@
+svg:not(:root) {
+  overflow: hidden;
+}
+
+.icon-order-order,
+.icon-order-paid,
+.icon-order-problem,
+.icon-order-rating,
+.icon-order-received,
+.icon-order-shipping {
+  stroke: currentColor;
+}
+.shopee-svg-icon {
+  display: inline-block;
+  height: 2em;
+  width: 2em;
+  fill: currentColor;
+  position: relative;
+}
+
+.stepper__step-date {
+  color: rgba(0, 0, 0, 0.26);
+  font-size: 0.75rem;
+  height: 0.875rem;
+}
