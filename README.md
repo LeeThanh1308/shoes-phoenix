@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=vQgcl8VouLU
 
 ## 🛠️ Demo một số giao diện
 
-###ADMIN
+### ADMIN
 <img width="1920" height="1080" alt="dashboarch" src="https://github.com/user-attachments/assets/8fbb428e-7acf-4ca5-acb6-32c2ee8e3a2a" />
 <img width="1920" height="1080" alt="colors" src="https://github.com/user-attachments/assets/df6f9bd9-3f45-4969-96a0-0fe0447312da" />
 <img width="1920" height="1080" alt="category" src="https://github.com/user-attachments/assets/cde60e5f-6851-4508-af63-a86196dd09ba" />
@@ -66,7 +66,7 @@ https://www.youtube.com/watch?v=vQgcl8VouLU
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57ad72d5-5e87-4c53-88e8-3fc67903aba5" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7bfb88fa-79bf-430f-bdaf-3d3bf3c3f89d" />
 
-###CLIENT
+### CLIENT
 <img width="1920" height="1080" alt="payment" src="https://github.com/user-attachments/assets/f40c4d9c-d6b8-40f6-977b-e720d487d820" />
 <img width="1920" height="1080" alt="order" src="https://github.com/user-attachments/assets/e3a7133d-2296-412a-8d6b-d529c9726ecd" />
 <img width="1920" height="1080" alt="my post" src="https://github.com/user-attachments/assets/f587f9a4-856e-4db5-92e3-77a7b043a06c" />
@@ -80,13 +80,13 @@ https://www.youtube.com/watch?v=vQgcl8VouLU
 <img width="1920" height="1080" alt="search" src="https://github.com/user-attachments/assets/4e1e95e5-deb6-434a-af07-3a5145d94e24" />
 <img width="1920" height="1080" alt="product" src="https://github.com/user-attachments/assets/d26aea77-25aa-4537-88fe-c04674b1b643" />
 
-###AUTH
+### AUTH
 <img width="1920" height="1080" alt="forgot" src="https://github.com/user-attachments/assets/09e5778d-b828-4b5b-9d6e-5e365c537328" />
 <img width="1920" height="1080" alt="sign" src="https://github.com/user-attachments/assets/3cbf57ef-e276-4126-ae8d-47ea71c6de29" />
 <img width="1920" height="1080" alt="lg" src="https://github.com/user-attachments/assets/dd7cb195-2eb7-4ca1-9e6f-c29eb90a2344" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e70207e-ac29-4c69-b343-3d9a0ce81a2c" />
 
-##Entity Relationship Diagram
+## Entity Relationship Diagram
 <img width="1920" height="1080" alt="Screenshot 2025-07-01 232205" src="https://github.com/user-attachments/assets/65b10956-c3df-4ca1-b16c-04a850d9ffa6" />
 
 
